@@ -1,0 +1,17 @@
+C:\Users\onixd\source\repos\WinFormPJ-PokemonDB\WinFormPJ-PokemonDB\bin\Debug\WinFormPJ-PokemonDB.exe.config
+C:\Users\onixd\source\repos\WinFormPJ-PokemonDB\WinFormPJ-PokemonDB\bin\Debug\WinFormPJ-PokemonDB.exe
+C:\Users\onixd\source\repos\WinFormPJ-PokemonDB\WinFormPJ-PokemonDB\bin\Debug\WinFormPJ-PokemonDB.pdb
+C:\Users\onixd\source\repos\WinFormPJ-PokemonDB\WinFormPJ-PokemonDB\obj\Debug\WinFormPJ-PokemonDB.csprojAssemblyReference.cache
+C:\Users\onixd\source\repos\WinFormPJ-PokemonDB\WinFormPJ-PokemonDB\obj\Debug\WinFormPJ_PokemonDB.Form1.resources
+C:\Users\onixd\source\repos\WinFormPJ-PokemonDB\WinFormPJ-PokemonDB\obj\Debug\WinFormPJ_PokemonDB.Properties.Resources.resources
+C:\Users\onixd\source\repos\WinFormPJ-PokemonDB\WinFormPJ-PokemonDB\obj\Debug\WinFormPJ-PokemonDB.csproj.GenerateResource.cache
+C:\Users\onixd\source\repos\WinFormPJ-PokemonDB\WinFormPJ-PokemonDB\obj\Debug\WinFormPJ-PokemonDB.exe
+C:\Users\onixd\source\repos\WinFormPJ-PokemonDB\WinFormPJ-PokemonDB\obj\Debug\WinFormPJ-PokemonDB.pdb
+C:\Users\onixd\source\repos\WinFormPJ-PokemonDB\WinFormPJ-PokemonDB\bin\Debug\MySql.Data.dll
+C:\Users\onixd\source\repos\WinFormPJ-PokemonDB\WinFormPJ-PokemonDB\bin\Debug\Google.Protobuf.dll
+C:\Users\onixd\source\repos\WinFormPJ-PokemonDB\WinFormPJ-PokemonDB\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\onixd\source\repos\WinFormPJ-PokemonDB\WinFormPJ-PokemonDB\bin\Debug\Renci.SshNet.dll
+C:\Users\onixd\source\repos\WinFormPJ-PokemonDB\WinFormPJ-PokemonDB\bin\Debug\MySql.Data.xml
+C:\Users\onixd\source\repos\WinFormPJ-PokemonDB\WinFormPJ-PokemonDB\obj\Debug\WinFormPJ-PokemonDB.csproj.CopyComplete
+C:\Users\onixd\source\repos\WinFormPJ-PokemonDB\WinFormPJ-PokemonDB\obj\Debug\WinFormPJ-PokemonDB.csproj.ResolveComReference.cache
+C:\Users\onixd\source\repos\WinFormPJ-PokemonDB\WinFormPJ-PokemonDB\obj\Debug\WinFormPJ_PokemonDB.Form2.resources
